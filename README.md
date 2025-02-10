@@ -1,4 +1,4 @@
-Welcome to my professional portfolio! I am Aishwarya Dekhane, currently pursuing a Master in Artificial Intelligence at the University of Michigan, Dearborn. This portfolio is a comprehensive showcase of my journey, skills, and achievements in the field of AI and computer engineering. As an AI Engineer, my portfolio showcases innovative projects in machine learning, deep learning, and computer vision. It reflects my expertise in crafting AI solutions that drive technological advancement and efficiency. Explore my journey in AI here!
+Welcome to my professional portfolio! I am Sreekanth Modupalli, currently pursuing a Master in Artificial Intelligence at the University of Michigan, Dearborn. This portfolio is a comprehensive showcase of my journey, skills, and achievements in the field of AI and computer engineering. As an AI Engineer, my portfolio showcases innovative projects in machine learning, deep learning, and computer vision. It reflects my expertise in crafting AI solutions that drive technological advancement and efficiency. Explore my journey in AI here!
 
 Contact Information
 •	Email: dekhane.aishwarya@gmail.com
